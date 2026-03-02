@@ -1,5 +1,5 @@
 [build]
-  command = "pnpm build"
+  command = "corepack pnpm build"
 
 [build.environment]
   NODE_VERSION = "20"
